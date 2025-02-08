@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Picnic en el parque",
+    "description": "Disfrutar de un día soleado en el parque con una cesta de picnic.",
+    "icon": "park",
+    "image": "images/songs/song1.webp"
+  },
+  {
+    "id": 2,
+    "name": "Noche de películas",
+    "description": "Ver nuestras películas favoritas en casa con palomitas y refrescos.",
+    "icon": "movie",
+    "image": "images/songs/song1.webp"
+  },
+  {
+    "id": 3,
+    "name": "Caminata en la montaña",
+    "description": "Explorar senderos y disfrutar de la naturaleza juntos.",
+    "icon": "hiking",
+    "image": "images/songs/song1.webp"
+  },
+  {
+    "id": 4,
+    "name": "Cena romántica",
+    "description": "Tener una cena especial en un restaurante elegante.",
+    "icon": "flatware",
+    "image": "images/songs/song1.webp"
+  },
+  {
+    "id": 5,
+    "name": "Visita a un museo",
+    "description": "Pasar el día explorando un museo local.",
+    "icon": "museum",
+    "image": "images/songs/song1.webp"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Tan natural",
+    "author": "Felipe Peláez",
+    "image": "images/songs/song1.webp",
+    "audio": "songs/bajo_el_agua_manuel_medrano.mp3"
+  },
+  {
+    "id": 2,
+    "name": "Te amo y te amo",
+    "author": "Felipe Peláez",
+    "image": "images/songs/song1.webp",
+    "audio": "songs/estar_enamorado_golpe_a_golpe.mp3"
+  }
+]

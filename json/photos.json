@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Atardecer en la playa",
+    "url": "images/man.webp"
+  },
+  {
+    "id": 2,
+    "title": "Montaña nevada",
+    "url": "images/woman.webp"
+  },
+  {
+    "id": 3,
+    "title": "Bosque en otoño",
+    "url": "images/man.webp"
+  },
+  {
+    "id": 4,
+    "title": "Ciudad de noche",
+    "url": "images/man.webp"
+  },
+  {
+    "id": 5,
+    "title": "Lago tranquilo",
+    "url": "images/woman.webp"
+  },
+  {
+    "id": 6,
+    "title": "Campo de flores",
+    "url": "images/man.webp"
+  },
+  {
+    "id": 7,
+    "title": "Cascada",
+    "url": "images/woman.webp"
+  },
+  {
+    "id": 8,
+    "title": "Desierto",
+    "url": "images/man.webp"
+  },
+  {
+    "id": 9,
+    "title": "Selva tropical",
+    "url": "images/woman.webp"
+  },
+  {
+    "id": 10,
+    "title": "Aurora boreal",
+    "url": "images/man.webp"
+  }
+]
